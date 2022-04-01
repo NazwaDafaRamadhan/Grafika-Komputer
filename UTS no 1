@@ -1,6 +1,6 @@
-#NazwaDafaRamadhan
-#D4ManajemenInformatika2020A
-#20051397023
+# Nazwa Dafa Ramadhan
+# D4 Manajemen Informatika 2020A
+# 20051397023
 
 
 from OpenGL.GL import *
